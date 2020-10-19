@@ -1,2 +1,3 @@
-# Homework-2
-VBA Homework
+# VBA Challenge
+
+Using VBA language to analyze data sets.
