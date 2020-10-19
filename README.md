@@ -1,3 +1,3 @@
-# VBA Challenge
+# Stock Tracking
 
-Using VBA language to analyze data sets.
+Using VBA language to analyze stock changes. 
